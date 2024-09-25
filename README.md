@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Akshaysenpai
+- 👋 Hi, I’m Akshay Ahlawat
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning React js, Mongo db, etc.
 - 💞️ I’m looking to collaborate on Web Dev Projects 
